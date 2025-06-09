@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there! I'm Lamia Alshahrani 👋
 
-<!--
-**LamiaAlshahrani999/LamiaAlshahrani999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a **Professional Master's degree in Artificial Intelligence** and a **Bachelor's degree in Mathematics**. I’m passionate about applying AI techniques to solve real-world problems across various domains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Academic Background:**  
+- 🧠 M.Prof in Artificial Intelligence  
+- ➕ B.Sc. in Mathematics
+
+🛠️ **Technical Interests & Skills:**  
+- Artificial Intelligence & Machine Learning  
+- Data Analysis & Modeling  
+- Problem Solving using Mathematical Approaches  
+- Python, NumPy, Pandas, Scikit-learn  
+- Visualization tools like Matplotlib, Seaborn, Power BI
+
+🚀 **Focus Areas:**  
+Using AI and mathematical techniques in:
+- Healthcare analytics  
+- Smart systems  
+- Decision support  
+- Automation and optimization problems
+
+🤝 **Looking to collaborate on:**  
+AI-driven solutions, research projects, and data-intensive applications.
+
+📫 **Contact me:**  
+lamia@example.com  
+[LinkedIn](https://www.linkedin.com/in/lamia-alshahrani-32a546220//) (Insert your actual profile link)
+
+---
+
+⚡ **Fun fact:**  
+I'm deeply interested in how math and AI can work together to make smarter, more efficient systems—and I believe learning never stops!
