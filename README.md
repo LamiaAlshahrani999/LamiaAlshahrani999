@@ -26,8 +26,8 @@ Using AI and mathematical techniques in:
 AI-driven solutions, research projects, and data-intensive applications.
 
 📫 **Contact me:**  
-lamia@example.com  
-[LinkedIn](https://www.linkedin.com/in/lamia-alshahrani-32a546220//) (Insert your actual profile link)
+lamiaalshahrani19@gmail.com 
+[linkedin](https://www.linkedin.com/in/lamia-alshahrani-32a546220//) (https://www.linkedin.com/in/lamia-alshahrani-32a546220/
 
 ---
 
