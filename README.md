@@ -4,32 +4,32 @@ I hold a **Professional Master's degree in Artificial Intelligence** and a **Bac
 
 ---
 
-🎓 **Academic Background:**  
+🎓 **Academic Background**  
 - 🧠 M.Prof in Artificial Intelligence  
 - ➕ B.Sc. in Mathematics
 
-🛠️ **Technical Interests & Skills:**  
+🛠️ **Technical Interests & Skills**  
 - Artificial Intelligence & Machine Learning  
 - Data Analysis & Modeling  
 - Problem Solving using Mathematical Approaches  
 - Python, NumPy, Pandas, Scikit-learn  
-- Visualization tools like Matplotlib, Seaborn, Power BI
+- Visualization tools: Matplotlib, Seaborn, Power BI
 
-🚀 **Focus Areas:**  
-Using AI and mathematical techniques in:
+🚀 **Focus Areas**  
+Using AI and mathematical techniques in:  
 - Healthcare analytics  
 - Smart systems  
 - Decision support  
 - Automation and optimization problems
 
-🤝 **Looking to collaborate on:**  
+🤝 **Looking to collaborate on**  
 AI-driven solutions, research projects, and data-intensive applications.
 
-📫 **Contact me:**  
-lamiaalshahrani19@gmail.com 
-[linkedin](https://www.linkedin.com/in/lamia-alshahrani-32a546220//) (https://www.linkedin.com/in/lamia-alshahrani-32a546220/
+📫 **Contact Me**  
+- 📧 Email: lamiaalshahrani19@gmail.com  
+- 💼 LinkedIn: [Lamia Alshahrani](https://www.linkedin.com/in/lamia-alshahrani-32a546220/)
 
 ---
 
-⚡ **Fun fact:**  
-I'm deeply interested in how math and AI can work together to make smarter, more efficient systems—and I believe learning never stops!
+⚡ **Fun Fact**  
+I’m deeply interested in how math and AI work together to build smarter, more efficient systems — and I believe that learning never stops!
